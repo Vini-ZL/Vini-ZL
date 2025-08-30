@@ -66,6 +66,7 @@
   ✨ Obrigado por visitar meu perfil! ✨  
 </p>
 
+
 <!-- Cobra dos commits -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vini-ZL/Vini-ZL/output/snake-dark.svg" />
