@@ -6,46 +6,60 @@
 ### 🚀 Sobre mim
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 📍 São Paulo - SP  
-💼 Experiência em área administrativa  
 ⚡ Interesses: **Tecnologia, Esportes e Jogos**
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
-
----
-
-### 📌 Projetos em Destaque
-
-| Projeto | Tecnologias | Descrição | Link |
-|--------|-------------|-----------|------|
-| 🃏 **Jogo de Cartas** | HTML, CSS, JS | Jogo de cartas com ataque, defesa e cura | [Repositório](https://github.com/Vini-ZL/jogo-cartas) |
-| ♠️♥️ **Blackjack (21)** | HTML, CSS, JS | Jogo clássico Blackjack para navegador | [Repositório](https://github.com/Vini-ZL/blackjack) |
-| 🏋️‍♂️ **Sistema Academia (GM FIT)** | Java, JPA, H2 | Controle de clientes, planos e acessos | [Repositório](https://github.com/Vini-ZL/academia) |
-| 🏦 **Banco Costa** | Flutter, Dart | App bancário fictício com login e registro | [Repositório](https://github.com/Vini-ZL/banco_costa) |
 
 ---
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vini-ZL&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-ZL&layout=compact&theme=tokyonight" height="150"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini-ZL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-ZL&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
+
+---
+
+<h2 align="center">📌 Projetos em Destaque</h2>
+<div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
+  <!-- Cards dos projetos (mesmo código HTML acima) -->
+  <div style="background:#1f1f1f; color:white; border-radius:10px; padding:15px; width:250px; text-align:center;">
+    <h3>🃏 Jogo de Cartas</h3>
+    <p>HTML, CSS, JS</p>
+    <p>Jogo com ataque, defesa e cura</p>
+    <a href="https://github.com/Vini-ZL/jogo-cartas" style="color:#ff9800; text-decoration:none;">🔗 Ver projeto</a>
+  </div>
+  <div style="background:#1f1f1f; color:white; border-radius:10px; padding:15px; width:250px; text-align:center;">
+    <h3>♠️♥️ Blackjack</h3>
+    <p>HTML, CSS, JS</p>
+    <p>Jogo clássico Blackjack</p>
+    <a href="https://github.com/Vini-ZL/blackjack" style="color:#ff9800; text-decoration:none;">🔗 Ver projeto</a>
+  </div>
+  <div style="background:#1f1f1f; color:white; border-radius:10px; padding:15px; width:250px; text-align:center;">
+    <h3>🏋️‍♂️ Sistema Academia</h3>
+    <p>Java, JPA, H2</p>
+    <p>Controle de clientes, planos e acessos</p>
+    <a href="https://github.com/Vini-ZL/academia" style="color:#ff9800; text-decoration:none;">🔗 Ver projeto</a>
+  </div>
+  <div style="background:#1f1f1f; color:white; border-radius:10px; padding:15px; width:250px; text-align:center;">
+    <h3>🏦 Banco Costa</h3>
+    <p>Flutter, Dart</p>
+    <p>App bancário com login e registro</p>
+    <a href="https://github.com/Vini-ZL/banco_costa" style="color:#ff9800; text-decoration:none;">🔗 Ver projeto</a>
+  </div>
+
+</div>
 
 ---
 
