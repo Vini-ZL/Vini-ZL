@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jogo de Cartas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🃏 Jogo de Cartas - Ataque, Defesa e Cura</h1>
+
+  <div class="game-container">
+    <div class="player" id="player">
+      <h2>👤 Jogador</h2>
+      <p>HP: <span id="player-hp">30</span></p>
+      <button onclick="drawCard('player')">Comprar Carta</button>
+      <div class="hand" id="player-hand"></div>
+    </div>
+
+    <div class="player" id="enemy">
+      <h2>🤖 Inimigo</h2>
+      <p>HP: <span id="enemy-hp">30</span></p>
+      <button onclick="enemyPlay()">Turno Inimigo</button>
+      <div class="hand" id="enemy-hand"></div>
+    </div>
+  </div>
+
+  <div class="log" id="log"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
