@@ -38,25 +38,25 @@
     <h3>🃏 Jogo de Cartas</h3>
     <p>HTML, CSS, JS</p>
     <p>Jogo com ataque, defesa e cura</p>
-    <a href="https://github.com/Vini-ZL/jogo-cartas" style="color:#ff9800; text-decoration:none;">🔗 Ver projeto</a>
+    <a href="https://github.com/Vini-ZL/Jogo-cartas" style="color:#ff9800; text-decoration:none;">🔗 Ver projeto</a>
   </div>
   <div style="background:#1f1f1f; color:white; border-radius:10px; padding:15px; width:250px; text-align:center;">
     <h3>♠️♥️ Blackjack</h3>
     <p>HTML, CSS, JS</p>
     <p>Jogo clássico Blackjack</p>
-    <a href="https://github.com/Vini-ZL/blackjack" style="color:#ff9800; text-decoration:none;">🔗 Ver projeto</a>
+    <a href="https://github.com/Vini-ZL/Blackjack" style="color:#ff9800; text-decoration:none;">🔗 Ver projeto</a>
   </div>
   <div style="background:#1f1f1f; color:white; border-radius:10px; padding:15px; width:250px; text-align:center;">
     <h3>🏋️‍♂️ Sistema Academia</h3>
     <p>Java, JPA, H2</p>
     <p>Controle de clientes, planos e acessos</p>
-    <a href="https://github.com/Vini-ZL/academia" style="color:#ff9800; text-decoration:none;">🔗 Ver projeto</a>
+    <a href="https://github.com/Vini-ZL/Academia" style="color:#ff9800; text-decoration:none;">🔗 Ver projeto</a>
   </div>
   <div style="background:#1f1f1f; color:white; border-radius:10px; padding:15px; width:250px; text-align:center;">
     <h3>🏦 Banco Costa</h3>
     <p>Flutter, Dart</p>
     <p>App bancário com login e registro</p>
-    <a href="https://github.com/Vini-ZL/banco_costa" style="color:#ff9800; text-decoration:none;">🔗 Ver projeto</a>
+    <a href="https://github.com/Vini-ZL/Banco_costa" style="color:#ff9800; text-decoration:none;">🔗 Ver projeto</a>
   </div>
 
 </div>
