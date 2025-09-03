@@ -38,7 +38,7 @@
     <h3>🃏 Jogo de Cartas</h3>
     <p>HTML, CSS, JS</p>
     <p>Jogo com ataque, defesa e cura</p>
-    <a href="https://github.com/Vini-ZL/Jogo-cartas" style="color:#ff9800; text-decoration:none;">🔗 Ver projeto</a>
+    <a href="https://github.com/Vini-ZL/Jogo_cartas" style="color:#ff9800; text-decoration:none;">🔗 Ver projeto</a>
   </div>
   <div style="background:#1f1f1f; color:white; border-radius:10px; padding:15px; width:250px; text-align:center;">
     <h3>♠️♥️ Blackjack</h3>
